@@ -1,5 +1,5 @@
-# Trabalho Prático - Semana 5 
-> DIW EAD 2026/1
+# Trabalho Prático - Semana 4 
+> DIW 2026/1
 
 Dessa vez, vamos escolher uma proposta de projeto para trabalhar.
 
