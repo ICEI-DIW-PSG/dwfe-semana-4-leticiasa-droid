@@ -9,10 +9,10 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Letícia de Sá Ribeiro
+- Matricula: 926758
+- Proposta de projeto escolhida: 5-Temas e Conteúdos Associados/Tema e vídeos, curso e aulas, categoria e dicas. 
+- Breve descrição sobre seu projeto: Meu projeto é uma página da web voltada para dicas alimentares saúdaveis e com receitas fitness, visando inspirar uma alimentação saudável para as pessoas interessadas no assunto.
 
 
 ## Print do(s) wireframe(s) criado
@@ -20,8 +20,9 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 
 <<  COLOQUE A IMAGEM AQUI >>
-
+![Wireframe](public/Wireframe%20%20-%20Página%20da%20Web%20(1).png)
 
 ## Print da home-page criada
 
 <<  COLOQUE A IMAGEM AQUI >>
+![Página da Web](public/Captura%20de%20tela_24-3-2026_125731_127.0.0.1.jpeg)
