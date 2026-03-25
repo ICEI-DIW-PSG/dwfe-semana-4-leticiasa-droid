@@ -25,4 +25,4 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 ## Print da home-page criada
 
 <<  COLOQUE A IMAGEM AQUI >>
-![Página da Web](public/Captura%20de%20tela_24-3-2026_125731_127.0.0.1.jpeg)
+![Página da Web](public/Captura%20de%20tela_25-3-2026_93051_127.0.0.1.jpeg)
